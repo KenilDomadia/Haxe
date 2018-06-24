@@ -36,3 +36,8 @@
     1. `yarn` -- installs
     2. `npm run build` -- builds
     3. `npm start` -- runs local server
+
+Next Steps:
+
+1. Explore the use of TexturePacker with HaxeFlixel (maybe, by making SimonGame with it) -- `http://haxeflixel.com/demos/TexturePackerAtlas/`
+2. Explore externs conversion in Haxe when compiling to non-JS platform output -- Do this By using JQuery externs and publishing it on mac/windows platform.
