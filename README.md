@@ -1,7 +1,7 @@
 # Haxe
 
-`Haxelib` - A place to share your code with others in the Haxe ecosystem. Haxelib is the package manager for the Haxe Toolkit, like npm, for javascript code. Along with the compiler this also installs tools like haxelib, a pretty powerfull lib manager for haxe.
-> To install haxe & haxelib : 
+`Haxelib` - A place to share your code with others in the Haxe ecosystem. Haxelib is the package manager for the Haxe Toolkit, like npm, for javascript code. 
+> To install haxe & haxelib (Along with the compiler this also installs tools like haxelib): 
 1. https://haxe.org/download/
 
 `Lime` - Lime or Light Media Engine is the glue which helps make our Haxe code to run in various native platforms. Lime exposes native functionality like OpenGL, Audio, Input, Windowing etc (From the lime project readme https://github.com/openfl/lime). Lime is the layer closest to all targeted native platforms.
@@ -20,7 +20,7 @@
  2. `haxelib run lime setup flixel`
  
 
- Instructions for building and running projects :
+> Instructions for building and running projects :
 
  * haxeflixel
     1. `lime test html5` -- Builds the project, generates `export` folder and runs local server
@@ -37,7 +37,7 @@
     2. `npm run build` -- builds
     3. `npm start` -- runs local server
 
-Next Steps:
+> Next Steps:
 
 1. Explore the use of TexturePacker with HaxeFlixel (maybe, by making SimonGame with it) -- `http://haxeflixel.com/demos/TexturePackerAtlas/`
-2. Explore externs conversion in Haxe when compiling to non-JS platform output -- Do this By using JQuery externs and publishing it on mac/windows platform.
+2. Explore `externs` Haxe, it's conversion when compiling to non-JS platform output -- Do this by using JQuery externs and publishing it on Mac/Windows platform.
