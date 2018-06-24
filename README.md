@@ -29,10 +29,10 @@
     1. `haxe build.hxml` -- Generates bin folder
     2. `python -m SimpleHTTPServer` -- Runs local server and opens index.html existing in the directory
 
- * openfl_haxelib
+ * openfl-haxelib
     1. `openfl test html5` -- Generates `Export` folder and start local server.
 
- * openfl_npm
+ * openfl-npm
     1. `yarn` -- installs
     2. `npm run build` -- builds
     3. `npm start` -- runs local server
