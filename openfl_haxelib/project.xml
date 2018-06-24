@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <project>
 	
-	<meta title="Trial1" package="com.sample.trial1" version="1.0.0" company="Company Name" />
-	<app main="Main" path="Export" file="Trial1" />
+	<meta title="openfl_haxelib" package="com.sample.openfl_haxelib" version="1.0.0" company="Company Name" />
+	<app main="Main" path="Export" file="openfl_haxelib" />
 	
 	<source path="Source" />
 	
